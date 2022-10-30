@@ -1,0 +1,19 @@
+{
+  "name": "sharedmodules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jsonwebtoken": "^8.5.9",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "@fastify/jwt": "^6.3.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
